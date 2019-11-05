@@ -1,1 +1,2 @@
-Page Produit modif depuis master
+<<<<<<< HEAD
+Page Produit modif depuis master bracnche produit
